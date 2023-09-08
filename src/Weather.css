@@ -25,11 +25,9 @@
   line-height: 19px;
   list-style: none;
 }
-img {
-  height: 64px;
+canvas {
   margin-right: 10px;
-  margin-bottom: 32px;
-  width: 64px;
+  margin-top: 32px;
 }
 .temperature {
   color: rgb(33, 33, 33);
